@@ -1,0 +1,54 @@
+{
+	"id": 409,
+	"name": "Progress pride flag",
+	"description": "The progress pride flag is a pride flag that combines the rainbow LGBT pride flag, transgender flag, and brown and black stripes to represent LGBT people of color (brown) and those fallen victim to Aids (black). This flag additionally has a purple circle on a yellow background to represent the intersex pride flag.",
+	"links": {},
+	"path": {
+		"55-90": [
+			[
+				500,
+				439
+			],
+			[
+				500,
+				465
+			],
+			[
+				628,
+				465
+			],
+			[
+				628,
+				439
+			]
+		],
+		"109-258": [
+			[
+				500,
+				438
+			],
+			[
+				500,
+				465
+			],
+			[
+				600,
+				465
+			],
+			[
+				600,
+				438
+			]
+		]
+	},
+	"center": {
+		"55-90": [
+			564,
+			452
+		],
+		"109-258": [
+			550,
+			452
+		]
+	}
+}
